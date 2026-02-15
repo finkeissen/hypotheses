@@ -1,0 +1,9 @@
+kernel:
+  - id: RP-000
+mms:
+  - id: MMS-000
+matrix:
+  - id: MX-000
+related_hypotheses: []
+status: draft
+tags: [template, example]
