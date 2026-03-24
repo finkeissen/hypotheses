@@ -1,0 +1,59 @@
+.:
+insgesamt 48
+-rw-r--r-- 1 ef ef  103 Feb 15 15:15 CHANGELOG.md
+-rw-r--r-- 1 ef ef  520 Feb 15 15:15 CONTRIBUTING.md
+-rw-rw-r-- 1 ef ef    0 Feb 16 13:40 dir.txt
+drwxrwxr-x 2 ef ef 4096 Feb 15 16:27 docs
+-rw-rw-r-- 1 ef ef 3051 Feb 16 09:58 H001.md
+drwxrwxr-x 5 ef ef 4096 Feb 16 10:25 hypotheses
+-rw-r--r-- 1 ef ef  463 Feb 15 15:15 HYPOTHESES.md
+-rw-r--r-- 1 ef ef  217 Feb 15 15:15 index.md
+-rw-r--r-- 1 ef ef  646 Feb 15 15:14 LICENSE
+-rw-r--r-- 1 ef ef 3889 Feb 15 15:15 README.md
+drwxr-xr-x 2 ef ef 4096 Feb 15 15:14 schema
+-rw-r--r-- 1 ef ef  191 Feb 15 15:15 STATUS.md
+drwxr-xr-x 2 ef ef 4096 Feb 15 15:14 templates
+
+./docs:
+insgesamt 4
+-rw-r--r-- 1 ef ef 437 Feb 15 16:27 README.md
+
+./hypotheses:
+insgesamt 12
+drwxrwxr-x 4 ef ef 4096 Feb 16 10:29 active
+drwxrwxr-x 2 ef ef 4096 Feb 16 10:25 falsified
+drwxrwxr-x 2 ef ef 4096 Feb 16 10:24 inactive
+
+./hypotheses/active:
+insgesamt 8
+drwxr-xr-x 2 ef ef 4096 Feb 15 15:14 H0001
+drwxrwxr-x 2 ef ef 4096 Feb 16 10:28 H0002
+
+./hypotheses/active/H0001:
+insgesamt 16
+-rw-r--r-- 1 ef ef 209 Feb 15 15:14 evidence-trace.md
+-rw-r--r-- 1 ef ef 573 Feb 15 15:14 falsification.md
+-rw-r--r-- 1 ef ef 130 Feb 15 15:14 references.yaml
+-rw-r--r-- 1 ef ef 303 Feb 15 15:14 statement.md
+
+./hypotheses/active/H0002:
+insgesamt 20
+-rw-r--r-- 1 ef ef 175 Feb 16 09:27 evidence-trace.md
+-rw-r--r-- 1 ef ef 372 Feb 16 09:27 falsification.md
+-rw-r--r-- 1 ef ef  83 Feb 16 09:27 META.yaml
+-rw-r--r-- 1 ef ef  67 Feb 16 09:27 references.yaml
+-rw-r--r-- 1 ef ef 473 Feb 16 09:27 statement.md
+
+./hypotheses/falsified:
+insgesamt 0
+
+./hypotheses/inactive:
+insgesamt 0
+
+./schema:
+insgesamt 4
+-rw-r--r-- 1 ef ef 1246 Feb 15 15:14 references.schema.json
+
+./templates:
+insgesamt 4
+-rw-r--r-- 1 ef ef 178 Feb 15 15:15 README.md
