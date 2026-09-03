@@ -1,4 +1,4 @@
-# hypotheses
+# HYPOTHESES Repository
 
 Versioned, referencable, **empirically or logically decidable** hypotheses  
 as a bridge between the epistemic core and the structured knowledge matrix.
