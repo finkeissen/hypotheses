@@ -68,8 +68,15 @@ hypotheses/
 
 ## License
 
-CC BY-NC 4.0  
-Non-commercial. Commercial use or derivatives require a separate agreement.
+This repository is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License** (CC BY-SA 4.0).
+
+You are free to share and adapt the material for any purpose, including commercial use, as long as you give appropriate credit and distribute any derivatives under the same licence.
+
+See the file `LICENSE` for the full text.
+
+Commercial use of the artefacts is permitted.  
+If you need a different licensing arrangement, contact the author.
+
 
 ## Related repositories
 
