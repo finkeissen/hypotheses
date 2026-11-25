@@ -1,0 +1,10 @@
+hypothesis_id: H003
+status: active
+kernel:
+  - id: RP-000   # replace with kernel anchor once assigned
+related_predictions: []
+related_runs: []
+sources:
+  - book: raumzeit
+    section: "Schnittspiel S-1: formale Spezifikation"
+    codes: [BR-24, BR-22, AX2, AX3, W7]
