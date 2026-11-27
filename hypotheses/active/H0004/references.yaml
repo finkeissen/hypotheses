@@ -1,0 +1,10 @@
+hypothesis_id: H004
+status: active
+kernel:
+  - id: RP-000   # replace with kernel anchor once assigned
+related_predictions: []
+related_runs: []
+sources:
+  - program: "FP Problemlösung (problem-solution matrix research program)"
+    register: "threshold/saturation registers 2026-11-13/14 (append-only decision registers)"
+    codes: [saturation, novelty, bge-m3, cosine-0.80, share-0.70]

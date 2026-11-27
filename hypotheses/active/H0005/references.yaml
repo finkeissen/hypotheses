@@ -1,0 +1,11 @@
+hypothesis_id: H005
+status: active
+kernel:
+  - id: RP-000   # replace with kernel anchor once assigned
+related_predictions:
+  - H004
+related_runs: []
+sources:
+  - program: "FP Problemlösung (problem-solution matrix research program)"
+    register: "research question 1, hypothesis H-B; provenance registers 2026-11"
+    codes: [source-novelty, provenance, nearest-neighbour, in-domain-test]
